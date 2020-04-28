@@ -1,0 +1,17 @@
+.portfolio-box {
+    background-color: transparent;
+}
+.card {
+    background-color: transparent;
+    color: white;
+}
+.card-text {
+    padding: 5px 0px 5px 0px;
+}
+ul {
+    padding-top:5px;
+ }
+ ul li {
+    display: inline-block;
+    padding: 5px;
+ }
