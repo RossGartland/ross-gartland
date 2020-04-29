@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.273f79f5.chunk.css",
-    "main.js": "/static/js/main.65c09449.chunk.js",
-    "main.js.map": "/static/js/main.65c09449.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e29528f4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e29528f4.js.map",
-    "static/js/2.cab84578.chunk.js": "/static/js/2.cab84578.chunk.js",
-    "static/js/2.cab84578.chunk.js.map": "/static/js/2.cab84578.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.adb16e5c7b70aeb675191107d74aa1d7.js": "/precache-manifest.adb16e5c7b70aeb675191107d74aa1d7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.273f79f5.chunk.css.map": "/static/css/main.273f79f5.chunk.css.map",
-    "static/js/2.cab84578.chunk.js.LICENSE.txt": "/static/js/2.cab84578.chunk.js.LICENSE.txt",
-    "static/media/home.style.css": "/static/media/code.7143a49f.jpg",
-    "static/media/covid19-ireland.png": "/static/media/covid19-ireland.6b88da1a.png",
-    "static/media/self.jpg": "/static/media/self.2b6e3651.jpg",
-    "static/media/temp.png": "/static/media/temp.6a9d678d.png"
+    "main.css": "/ross-gartland/static/css/main.85b3a407.chunk.css",
+    "main.js": "/ross-gartland/static/js/main.fc8784d0.chunk.js",
+    "main.js.map": "/ross-gartland/static/js/main.fc8784d0.chunk.js.map",
+    "runtime-main.js": "/ross-gartland/static/js/runtime-main.16fea994.js",
+    "runtime-main.js.map": "/ross-gartland/static/js/runtime-main.16fea994.js.map",
+    "static/js/2.cab84578.chunk.js": "/ross-gartland/static/js/2.cab84578.chunk.js",
+    "static/js/2.cab84578.chunk.js.map": "/ross-gartland/static/js/2.cab84578.chunk.js.map",
+    "index.html": "/ross-gartland/index.html",
+    "precache-manifest.c9a49f8754e30dd275d5a305f4eb14bb.js": "/ross-gartland/precache-manifest.c9a49f8754e30dd275d5a305f4eb14bb.js",
+    "service-worker.js": "/ross-gartland/service-worker.js",
+    "static/css/main.85b3a407.chunk.css.map": "/ross-gartland/static/css/main.85b3a407.chunk.css.map",
+    "static/js/2.cab84578.chunk.js.LICENSE.txt": "/ross-gartland/static/js/2.cab84578.chunk.js.LICENSE.txt",
+    "static/media/home.style.css": "/ross-gartland/static/media/code.7143a49f.jpg",
+    "static/media/covid19-ireland.png": "/ross-gartland/static/media/covid19-ireland.6b88da1a.png",
+    "static/media/self.jpg": "/ross-gartland/static/media/self.2b6e3651.jpg",
+    "static/media/temp.png": "/ross-gartland/static/media/temp.6a9d678d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e29528f4.js",
+    "static/js/runtime-main.16fea994.js",
     "static/js/2.cab84578.chunk.js",
-    "static/css/main.273f79f5.chunk.css",
-    "static/js/main.65c09449.chunk.js"
+    "static/css/main.85b3a407.chunk.css",
+    "static/js/main.fc8784d0.chunk.js"
   ]
 }
