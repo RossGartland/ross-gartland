@@ -9,8 +9,8 @@ const Contact = () => {
             <div class="social">
                 <a href="mailto:rgartland117@hotmail.com<">rgartland117@hotmail.com</a>
                 <br/>
-                <a href="#/">LinkedIn</a>
-                <a href="#/">GitHub</a>
+                <a href="https://www.linkedin.com/in/rossgartland/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                <a href="https://github.com/RossGartland" target="_blank" rel="noopener noreferrer">GitHub</a>
             </div>
         </div>
     )
