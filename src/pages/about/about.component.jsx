@@ -5,7 +5,7 @@ import './about.style.css';
 
 const About = () => {
     return (
-        <div className="about-container">
+        <div id="#about" className="about-container">
             <div className="about-container-2">
                 <Fade>
                     <img className="about-img" alt="Ross Gartland" src={selfImage} />

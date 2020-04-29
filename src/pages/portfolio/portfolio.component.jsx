@@ -6,7 +6,7 @@ import './portfolio.style.css';
 
 const Portfolio = () => {
     return (
-        <div className="portfolio-container">
+        <div id="portfolio" className="portfolio-container">
             <div className="row">
             <PortfolioCard image={covidProject} title={`Covid-19 Ireland`} about={`A website that tracks Covid-19 across the island of Ireland.`} 
             tech={[`HTML`,`CSS`,`JS`,`Node`,`React`,`JSX`,`Firebase`]}/>
