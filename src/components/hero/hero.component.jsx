@@ -7,7 +7,7 @@ const Hero = () => {
         <h1>ROSS GARTLAND</h1>
         <hr />
         <p>SOFTWARE DEVELOPER</p>
-        <a href="#/">VIEW MY PORTFOLIO</a>
+        <a href="#portfolio">VIEW MY PORTFOLIO</a>
       </div>
   )
 }

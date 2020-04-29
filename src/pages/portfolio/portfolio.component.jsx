@@ -2,6 +2,7 @@ import React from 'react';
 import PortfolioCard from '../../components/portfolio-card/portfolio-card.component';
 import covidProject from '../../assets/covid19-ireland.png';
 import Temp from '../../assets/temp.png';
+import ArrowDown from '../../components/arrow/arrow-down.component';
 import './portfolio.style.css';
 
 const Portfolio = () => {
@@ -17,6 +18,7 @@ const Portfolio = () => {
             <PortfolioCard image={Temp} title={`Placeholder`} about={`Text will go here.`} 
             tech={[`HTML`,`CSS`,`JS`,`Node`,`React`,`JSX`,`Firebase`]}/>
             </div>
+            <ArrowDown link={"#contact"} title={"contact"}/>
         </div>
     )
 }

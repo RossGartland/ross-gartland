@@ -1,10 +1,12 @@
 .about-container {
   min-height: 100vh;
+  position: relative;
 }
 .about-container-2 {
   position: relative;
   margin: 0 auto;
   padding-top: 200px;
+  padding-bottom:90px;
 }
 .about-img {
   height: 300px;
