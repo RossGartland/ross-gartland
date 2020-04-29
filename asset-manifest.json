@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.273f79f5.chunk.css",
+    "main.js": "/static/js/main.65c09449.chunk.js",
+    "main.js.map": "/static/js/main.65c09449.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e29528f4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e29528f4.js.map",
+    "static/js/2.cab84578.chunk.js": "/static/js/2.cab84578.chunk.js",
+    "static/js/2.cab84578.chunk.js.map": "/static/js/2.cab84578.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.adb16e5c7b70aeb675191107d74aa1d7.js": "/precache-manifest.adb16e5c7b70aeb675191107d74aa1d7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.273f79f5.chunk.css.map": "/static/css/main.273f79f5.chunk.css.map",
+    "static/js/2.cab84578.chunk.js.LICENSE.txt": "/static/js/2.cab84578.chunk.js.LICENSE.txt",
+    "static/media/home.style.css": "/static/media/code.7143a49f.jpg",
+    "static/media/covid19-ireland.png": "/static/media/covid19-ireland.6b88da1a.png",
+    "static/media/self.jpg": "/static/media/self.2b6e3651.jpg",
+    "static/media/temp.png": "/static/media/temp.6a9d678d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e29528f4.js",
+    "static/js/2.cab84578.chunk.js",
+    "static/css/main.273f79f5.chunk.css",
+    "static/js/main.65c09449.chunk.js"
+  ]
+}
