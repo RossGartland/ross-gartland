@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ross-gartland/precache-manifest.c9a49f8754e30dd275d5a305f4eb14bb.js"
+  "/ross-gartland/precache-manifest.1c1175736e873058392da76b62437f0f.js"
 );
 
 self.addEventListener('message', (event) => {
