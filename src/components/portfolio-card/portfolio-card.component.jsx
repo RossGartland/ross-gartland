@@ -6,12 +6,11 @@ const Portfolio = (props) => {
         <div className="col-xl-5 col-md-7 mb-4 portfolio-box">
             <div className="card border-0 shadow">
                 <a href={props.link} target="_blank" rel="noopener noreferrer">
-                <img src={props.image} className="card-img-top" alt="Developers" />
+                <img src={props.image} className="card-img-top" alt="Developers"/>
                 </a>
                 <div className="card-body text-center">
                     <h5 className="card-title mb-0">{props.title}</h5>
                     <div className="card-text">{props.about}</div>
-                    <h6 className="card-title mb-0">Technologies Used</h6>
                     <ul>
                         {
                             props.tech && props.tech.length ?
