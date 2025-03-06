@@ -1,0 +1,28 @@
+.portfolio-box {
+    background-color: transparent;
+    margin: 0 auto;
+}
+.card-img-top {
+    max-height: 300px;
+}
+.card {
+    background-color: transparent;
+    color: white;
+}
+.card-text {
+    padding: 5px 0px 5px 0px;
+}
+ul {
+    padding-top:5px;
+ }
+ ul li {
+    display: inline-block;
+    padding: 5px;
+ }
+
+ @media only screen and (min-width: 1200px) {
+    .portfolio-box {
+        min-width: 400px;
+        max-width: 700px;
+    }
+  }

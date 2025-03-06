@@ -1,0 +1,9 @@
+.portfolio-container {
+    padding: 20px;
+    position: relative;
+}
+.portfolio-card {
+    width: 250px; /* Adjust this to make it narrower */
+    max-width: 100%;
+  }
+
